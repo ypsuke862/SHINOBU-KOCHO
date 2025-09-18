@@ -14,7 +14,7 @@
 <div align="center">
   
 [![Autor](https://img.shields.io/badge/Autor-Nino%20chan-purple?style=for-the-badge)](https://github.com/ypsuke862)  
-[![Instagram](https://img.shields.io/badge/@kob_dano_nino-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kob_dano_nino)
+[![Instagram](https://img.shields.io/badge/@kob_dano_nino-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kob_dano_nino)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/529992042946)
 
 </div>
