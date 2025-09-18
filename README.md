@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Instagram-kob_dano_nino-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://wa.me/529992042946">
-    <img src="https://img.shields.io/badge/WhatsApp-529992042946-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-  <img src="https://img.shields.io/badge/JavaScript-Verificado-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/WhatsApp-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+<img src="https://img.shields.io/badge/JavaScript-Verificado-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
