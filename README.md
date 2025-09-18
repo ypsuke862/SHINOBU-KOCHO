@@ -2,17 +2,19 @@
 
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=monospace&size=24&duration=3000&color=F77FF7&center=true&vCenter=true&multiline=true&lines=%F0%9F%A6%8B+Shinobu+Kocho+BOT-MD+%F0%9F%92%9C%F0%9F%8C%B8;Power+By%3A+Danonino;Bot+en+desarrollo..." alt="Typing SVG" /></a>
+  <a href="https://github.com/ypsuke862">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A00C2&center=true&vCenter=true&width=435&lines=%F0%9D%98%9A%F0%9D%98%BD%F0%9D%98%B6%F0%9D%98%AA%F0%9D%98%BC%F0%9D%98%AF+%F0%9D%98%8A%F0%9D%98%B8%F0%9D%98%B2%F0%9D%98%B1%F0%9D%98%BE+%F0%9D%98%8F%F0%9D%98%AE%F0%9D%98%AD-%F0%9D%98%9C%F0%9D%98%8D;Power+By%3A+Danonino;Bot+en+desarrollo" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/bJ9qC47R/portada.jpg" alt="Shinobu Bot" style="width: 100%; max-width: 600px;">
+  <img src="https://i.postimg.cc/bJ9qC47R/portada.jpg" width="400px">
 </p>
 
----
+<div align="center">
+  
+[![Autor](https://img.shields.io/badge/Autor-Nino%20chan-purple?style=for-the-badge)](https://github.com/ypsuke862)  
+[![Instagram](https://img.shields.io/badge/@kob_dano_nino-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kob_dano_nino)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/529992042946)
 
-<p align="center">
-  <b>Autor:</b> Nino chan<br>
-  <a href="https://instagram.com/kob_dano_nino" target="_blank">Instagram: kob_dano_nino</a><br>
-  <a href="https://wa.me/529992042946" target="_blank">WhatsApp: +52 999 204 2946</a>
-</p>
+</div>
