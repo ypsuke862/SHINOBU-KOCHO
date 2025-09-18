@@ -7,10 +7,6 @@
   </a>
 </p>
 
-La imagen debería salir con ese código porque usa el link directo de Imgur.
-
-Prueba este snippet mínimo para ver si tu `README.md` muestra la imagen en GitHub:
-
 <p align="center">
   <img src="https://i.imgur.com/1KzJY0P.jpeg" alt="Shinobu Kocho MD" width="300"/>
 </p>
