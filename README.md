@@ -28,13 +28,13 @@
 
 ---
 
-`⎚⩊⎚´ 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎 𝙐𝙒𝙐 ভ`
+`# 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎 ˃ 𖥦 ˂`
 
 [![Grupo 1](https://img.shields.io/badge/Grupo_1-WhatsApp-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HIOAhMxbxg6Hnp5gHkY0pT)  
 [![Grupo 2](https://img.shields.io/badge/Grupo_2-WhatsApp-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JI6zZ6hd8VA3xQwOdslcv9)
 
 ---
 
-`ღゝ◡╹ )ノ 𝘾𝘼𝙉𝘼𝙇 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 ෆ⁠╹⁠.̮⁠╹⁠ෆ`
+`# 𝘾𝘼𝙉𝘼𝙇 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 ˃ 𖥦 ˂`
 
 [![Canal](https://img.shields.io/badge/Canal-WhatsApp-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBWiQnDjiOZI4PeC20s)
