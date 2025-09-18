@@ -2,25 +2,15 @@
 
 
 <p align="center">
-  <img src="https://i.imgur.com/MieD5IM.jpeg" alt="Shinobu Kocho" style="width:100%; max-width:500px;">
+  <a href="https://github.com/ypsuke862"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=DA3CD6&center=true&vCenter=true&width=435&lines=𝘚𝘩𝘪𝘯𝘰𝘣𝘶+𝘒𝘰𝘤𝘩𝘰+𝘉𝘖𝘛-𝘔𝘋;𝘗𝘰𝘸𝘦𝘳+𝘉𝘺%3A+𝘋𝘢𝘯𝘰𝘯𝘪𝘯𝘰;𝘉𝘰𝘵+𝘦𝘯+𝘥𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘰" alt="Typing SVG" /></a>
 </p>
-
-<h1 align="center" style="color:#d63384;">𝘚𝘩𝘪𝘯𝘰𝘣𝘶 𝘒𝘰𝘤𝘩𝘰 𝘉𝘖𝘛-𝘔𝘋</h1>
-<h3 align="center" style="color:#9b59b6;">𝘗𝘰𝘸𝘦𝘳 𝘉𝘺: 𝘋𝘢𝘯𝘰𝘯𝘪𝘯𝘰</h3>
-<p align="center" style="color:#e83e8c;"><i>𝘉𝘰𝘵 𝘦𝘯 𝘥𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘰</i></p>
-
----
-
-<h2 align="center">Shinobu Kocho MD</h2>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/AUTOR-Nino%20chan-%23d63384?style=for-the-badge"></a><br>
-  <a href="https://instagram.com/kob_dano_nino"><img src="https://img.shields.io/badge/INSTAGRAM-kob_dano_nino-%23e4405f?style=for-the-badge&logo=instagram&logoColor=white"></a><br>
-  <a href="https://wa.me/529992042946"><img src="https://img.shields.io/badge/WHATSAPP-Contactar-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <img src="https://i.imgur.com/1KzJY0P.jpeg" alt="Shinobu Bot MD" width="300"/>
 </p>
 
----
+<h1 align="center">Shinobu Kocho MD</h1>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/SENCILLO-WHATSAPP%20BOT-%2300BFA6?style=for-the-badge"></a>
-</p>
+  <a href="https://github.com/ypsuke862"><img src="https://img.shields.io/badge/Autor-Nino%20chan-purple?style=for-the-badge"></a><br>
+  <a href="https://instagram.com/kob_dano_nino"><img src="https://img.shields.io/badge/Instagram-kob_dano_nino-ff69b4?style=for-the-badge&logo=instagram"></a><br>
