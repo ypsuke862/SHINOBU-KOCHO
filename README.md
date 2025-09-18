@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/1KzJY0P.jpeg" alt="Shinobu Kocho MD" width="300"/>
+  <img src="https://i.ibb.co/Jv1vKpb/Shinobu-Kocho-MD.jpg" alt="Shinobu Kocho MD" width="300"/>
 </p>
 
 <h1 align="center">Shinobu Kocho MD</h1>
