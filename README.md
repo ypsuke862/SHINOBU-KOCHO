@@ -22,8 +22,8 @@
   <a href="https://wa.me/529992042946">
     <img src="https://img.shields.io/badge/WhatsApp‑Chat‑8A2BE2?style=for‑the‑badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@dano_nino_uwu">
-<img src="https://img.shields.io/badge/TikTok‑dano_nino_uwu‑8A2BE2?style=for‑the‑badge&logo=tiktok&logoColor=white" />
+<a href="https://www.tiktok.com/@dano_nino_uwu">
+    <img src="https://img.shields.io/badge/TikTok‑dano_nino_uwu‑8A2BE2?style=for‑the‑badge&logo=tiktok&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/JavaScript‑Verificado‑8A2BE2?style=for‑the‑badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js‑Verificado‑8A2BE2?style=for‑the‑badge&logo=node.js&logoColor=white" />
@@ -35,10 +35,10 @@
 
 <p align="center">
   <a href="https://chat.whatsapp.com/HIOAhMxbxG6Hnp5gHkY0pT">
-    <img src="https://img.shields.io/badge/Grupo‑Oficial‑1‑WhatsApp‑8A2BE2?style=for‑the‑badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Grupo‑1‑WhatsApp‑8A2BE2?style=for‑the‑badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://chat.whatsapp.com/JI6zZ6hd8VA3xQwOdslcv9">
-    <img src="https://img.shields.io/badge/Grupo‑Oficial‑2‑WhatsApp‑8A2BE2?style=for‑the‑badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Grupo‑2‑WhatsApp‑8A2BE2?style=for‑the‑badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
