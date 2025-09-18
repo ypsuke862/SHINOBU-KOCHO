@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ypsuke862">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=sʜɪɴᴏʙᴜ+ʙᴏᴛ-ᴍᴅ;𝘗𝘰𝘸𝘦𝘳+𝘉𝘺%3A+𝘋𝘢𝘯𝘰𝘯𝘪𝘯𝘰;𝘉𝘰𝘵+𝘦𝘯+𝘥𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘰" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=450&lines=𝗦𝗵𝗶𝗻𝗼𝗯𝘂+𝗕𝗼𝘁;©𝗣𝗼𝘄𝗲𝗿+𝗯𝘆+𝗗𝗮𝗻𝗼+𝘆+𝗕𝗼𝘁+𝗲𝗻+𝗱𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗼+𝘆+𝗱𝗲𝗷𝗮+𝘁𝘂+𝗲𝘀𝘁𝗿𝗲𝗹𝗹𝗶𝘁𝗮+✰" alt="Typing SVG" />
   </a>
 </p>
 
