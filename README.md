@@ -49,4 +49,3 @@ const texts = [
   </script>
 </body>
 </html>
-s.
