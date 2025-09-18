@@ -10,7 +10,7 @@
 </p>
 
 <p align="center" style="font-size:16px;">
-  <b>Autor:</b> Nino chan<br>
-  <b>Instagram:</b> <a href="https://instagram.com/kob_dano_nino" target="_blank">kob_dano_nino</a><br>
-  <b>WhatsApp:</b> <a href="https://wa.me/529992042946" target="_blank">Enviar mensaje</a>
+  <b>Autor:</b> Nino chan <br>
+  <b>Instagram:</b> <a href="https://instagram.com/kob_dano_nino" target="_blank" rel="noopener noreferrer">@kob_dano_nino</a><br>
+  <b>WhatsApp:</b> <a href="https://wa.me/529992042946" target="_blank" rel="noopener noreferrer">Enviar mensaje</a>
 </p>
