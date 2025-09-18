@@ -1,6 +1,5 @@
 # 𝙎𝙃𝙄𝙉𝙊𝘽𝙐-𝙆𝙊𝘾𝙃𝙊
 © 𝘿𝙖𝙣𝙤𝙣𝙞𝙣𝙤 & 𝙭𝙊𝙣𝙚
-⏤͟͟͞͞𖤐 𝘙𝘦𝘱𝘰𝘴𝘪𝘵𝘰𝘳𝘪𝘰 𝘰𝘧𝘪𝘤𝘪𝘢𝘭. 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Shinobu+Bot+%F0%9F%A6%8B;Power+By+Danonino+%F0%9F%A7%B8;Bot+en+desarrollo+%F0%9F%8C%B8;Deja+tu+estrellita+%E2%AD%90" alt="typing" />
@@ -27,3 +26,4 @@
   </a>
   <img src="https://img.shields.io/badge/JavaScript-Verificado-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
+𖤐 𝘙𝘦𝘱𝘰𝘴𝘪𝘵𝘰𝘳𝘪𝘰 𝘰𝘧𝘪𝘤𝘪𝘢𝘭. 
