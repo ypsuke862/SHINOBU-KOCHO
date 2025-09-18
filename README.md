@@ -26,3 +26,7 @@
   </a>
   <img src="https://img.shields.io/badge/JavaScript-Verificado-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
+
+
+
+#GRUPOS 𝘖𝘍𝘐𝘊𝘐𝘈𝘓𝘌𝘚 𝘜𝘞𝘜 ও
