@@ -28,13 +28,14 @@
 
 ---
 
+
 `⎚⩊⎚´ 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎 𝙐𝙒𝙐 ভ`
 
-- [Grupo 1 💜](https://chat.whatsapp.com/HIOAhMxbxG6Hnp5gHkY0pT)
-- [Grupo 2 💜](https://chat.whatsapp.com/JI6zZ6hd8VA3xQwOdslcv9)
+- 🟣 [Grupo 1 Oficial](https://chat.whatsapp.com/HIOAhMxbxG6Hnp5gHkY0pT)
+- 🟣 [Grupo 2 Oficial](https://chat.whatsapp.com/JI6zZ6hd8VA3xQwOdslcv9)
 
 ---
 
-`ღゝ◡╹ )ノ 𝘾𝘼𝙉𝘼𝙇 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 ෆ⁠╹⁠ ⁠.̮⁠ ⁠╹⁠ෆ`
+`ღゝ◡╹ )ノ 𝘾𝘼𝙉𝘼𝙇 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 ෆ⁠╹⁠.̮⁠╹⁠ෆ`
 
-- [Canal Oficial 💜](https://whatsapp.com/channel/0029VbBWiQnDjiOZI4PeC20s)
+- 🟣 [Canal Oficial](https://whatsapp.com/channel/0029VbBWiQnDjiOZI4PeC20s)
