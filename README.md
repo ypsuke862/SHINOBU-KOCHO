@@ -2,8 +2,7 @@
 
 
 <p align="center">
-  <span style="color:#b663c5; font-size:22px; font-weight:bold;">🦋 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐎 𝐎𝐅𝐂 𝐃𝐄 𝐒𝐇𝐈𝐍𝐎𝐁𝐔 💜🌸</span><br>
-  <span style="color:#e670ad; font-size:20px; font-weight:bold;">💜🦋 𝐄𝐒𝐓𝐄 𝐁𝐎𝐓 𝐄𝐒 𝐔𝐍𝐀 𝐏𝐑𝐔𝐄𝐁𝐀 🌸</span>
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=22&duration=3000&color=b663c5,e670ad,000000&center=true&vCenter=true&multiline=true&width=500&height=70&lines=🦋+𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐎+𝐎𝐅𝐂+𝐃𝐄+𝐒𝐇𝐈𝐍𝐎𝐁𝐔+💜🌸;💜🦋+𝐄𝐒𝐓𝐄+𝐁𝐎𝐓+𝐄𝐒+𝐔𝐍𝐀+𝐏𝐑𝐔𝐄𝐁𝐀+🌸" alt="Typing SVG"></a>
 </p>
 
 <p align="center">
