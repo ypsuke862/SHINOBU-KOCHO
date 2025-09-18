@@ -14,3 +14,5 @@
 <p align="center">
   <a href="https://github.com/ypsuke862"><img src="https://img.shields.io/badge/Autor-Nino%20chan-purple?style=for-the-badge"></a><br>
   <a href="https://instagram.com/kob_dano_nino"><img src="https://img.shields.io/badge/Instagram-kob_dano_nino-ff69b4?style=for-the-badge&logo=instagram"></a><br>
+<a href="https://wa.me/529992042946"><img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</p>
