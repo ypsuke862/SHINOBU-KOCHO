@@ -15,18 +15,10 @@
     text-align: center;
     padding: 20px;
   }
-  .img-container {
-    max-width: 450px;
-    margin: 0 auto 20px;
-  }
-  .img-container img {
-    width: 100%;
-    border-radius: 15px;
-  }
   .animated-text {
     font-weight: 700;
     font-size: 30px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
   }
   .color1 {
     color: #b663c5; /* morado */
@@ -34,49 +26,59 @@
   .color2 {
     color: #e670ad; /* rosa */
   }
+  .img-container {
+    max-width: 450px;
+    margin: 0 auto 15px;
+  }
+  .img-container img {
+    width: 100%;
+    border-radius: 15px;
+  }
+  .info-text {
+    font-size: 18px;
+    margin: 5px 0;
+    color: #fff;
+  }
+  .link {
+    color: #e670ad;
+    text-decoration: none;
+    font-weight: 600;
+  }
+.link:hover {
+    color: #b663c5;
+  }
 </style>
 </head>
 <body>
+
+<div id="animatedTexts">
+  <div id="text" class="animated-text color1">🦋𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐎 𝐎𝐅𝐂 𝐃𝐄 𝐒𝐇𝐈𝐍𝐎𝐁𝐔 💜🌸</div>
+  <div id="text2" class="animated-text color2" style="font-size: 24px;">💜🦋 𝐄𝐒𝐓𝐄 𝐁𝐎𝐓 𝐄𝐒 𝐔𝐍𝐀 𝐏𝐑𝐔𝐄𝐁𝐀 🌸</div>
+</div>
 
 <div class="img-container">
   <img src="https://i.postimg.cc/bJ9qC47R/portada.jpg" alt="Shinobu Kocho MD" />
 </div>
 
-<div>
-  <div id="text" class="animated-text color1">𝘚𝘩𝘪𝘯𝘰𝘣𝘶 𝘒𝘰𝘤𝘩𝘰 𝘉𝘖𝘛-𝘔𝐃</div>
-  <div id="text2" class="animated-text color2" style="font-size: 24px;">𝘗𝘰𝘸𝘦𝘳 𝘉𝘺: 𝘋𝘢𝘯𝘰𝘯𝘪𝘯𝘰</div>
-  <div id="text3" class="animated-text color1" style="font-size: 20px;">𝘉𝘰𝘵 𝘦𝘯 𝘥𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘰</div>
-</div>
+<div class="info-text">Autor: Nino chan</div>
+<div class="info-text">Instagram: <a href="https://instagram.com/kob_dano_nino" target="_blank" class="link">@kob_dano_nino</a></div>
+<div class="info-text">WhatsApp: <a href="https://wa.me/529992042946" target="_blank" class="link">WhatsApp</a></div>
 
 <script>
-  const texts = [
-"𝘚𝘩𝘪𝘯𝘰𝘣𝘶 𝘒𝘰𝘤𝘩𝘰 𝘉𝘖𝘛-𝘔𝐃",
-    "𝘗𝘰𝘸𝘦𝘳 𝘉𝘺: 𝘋𝘢𝘯𝘰𝘯𝘪𝘯𝘰",
-    "𝘉𝘰𝘵 𝘦𝘯 𝘥𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘰"
-  ];
+  const colors = ['#b663c5', '#e670ad']; // morado y rosa
+  let currentIndex = 0;
 
-  const colors = ['#b663c5', '#e670ad'];
-  let index = 0;
-
-  function animateText() {
+  function toggleColors() {
     const textEl = document.getElementById('text');
     const text2El = document.getElementById('text2');
-    const text3El = document.getElementById('text3');
+    
+    currentIndex = (currentIndex + 1) % colors.length;
 
-    textEl.textContent = texts[0];
-    text2El.textContent = texts[1];
-    text3El.textContent = texts[2];
-
-    // Cambiar colores alternando entre rosa y morado cada 2 segundos
-    setInterval(() => {
-      index = (index + 1) % colors.length;
-      textEl.style.color = colors[index];
-      text2El.style.color = colors[(index + 1) % colors.length];
-      text3El.style.color = colors[index];
-    }, 2000);
+    textEl.style.color = colors[currentIndex];
+    text2El.style.color = colors[(currentIndex + 1) % colors.length];
   }
 
-  animateText();
+  setInterval(toggleColors, 2000);
 </script>
 
 </body>
