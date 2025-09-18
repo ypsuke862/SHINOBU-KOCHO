@@ -26,4 +26,5 @@
   </a>
   <img src="https://img.shields.io/badge/JavaScript-Verificado-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-𖤐 𝘙𝘦𝘱𝘰𝘴𝘪𝘵𝘰𝘳𝘪𝘰 𝘰𝘧𝘪𝘤𝘪𝘢𝘭. 
+
+𖤐𝙉𝙤𝙩𝙖: 𝘦𝘴𝘵𝘢 𝘴𝘰𝘭𝘰 𝘦𝘴 𝘶𝘯𝘢 𝘷𝘦𝘳𝘴𝘪𝘰́𝘯 𝘥𝘦 𝘱𝘳𝘶𝘦𝘣𝘢 𝘦𝘭 𝘣𝘰𝘵 𝘯𝘰 𝘦𝘴𝘵𝘢́ 𝘢𝘶́𝘯 𝘤𝘰𝘮𝘱𝘭𝘦𝘵𝘰. 
