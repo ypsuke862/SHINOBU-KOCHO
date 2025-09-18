@@ -2,7 +2,7 @@
 © 𝘿𝙖𝙣𝙤𝙣𝙞𝙣𝙤 & 𝙭𝙊𝙣𝙚
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Shinobu+Bot+%F0%9F%A6%8B;©Power+By+Danonino+%F0%9F%A7%B8;Bot+en+desarrollo+%F0%9F%8C%B8;Deja+tu+estrellita+%E2%AD%90" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Shinobu+Bot+%F0%9F%A6%8B;Power+By+Danonino+%F0%9F%A7%B8;Bot+en+desarrollo+%F0%9F%8C%B8;Deja+tu+estrellita+%E2%AD%90" alt="typing" />
 </p>
 
 <p align="center">
