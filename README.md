@@ -35,6 +35,6 @@
 
 ---
 
-# 𝘾𝘼𝙉𝘼𝙇 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 ˃ 𖥦 ˂`
+# 𝘾𝘼𝙉𝘼𝙇 𝙊𝙁𝙄𝘾𝙄𝘼𝙇    ˃ 𖥦 ˂`
 
 [![Canal](https://img.shields.io/badge/Canal-WhatsApp-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBWiQnDjiOZI4PeC20s)
