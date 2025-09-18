@@ -1,4 +1,4 @@
-//GRR botsito de pruebas⭐
+//GRR botsito de prueba⭐
 
 import { watchFile, unwatchFile } from 'fs' 
 import chalk from 'chalk'
