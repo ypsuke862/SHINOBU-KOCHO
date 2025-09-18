@@ -2,13 +2,11 @@
 
 
 <p align="center">
-  <a href="https://github.com/ypsuke862">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=450&lines=Shinobu+Bot+🦋;©Power+By+Danonino+🧸;Bot+en+desarrollo+🌸;Deja+tu+estrellita+⭐" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=450&lines=Shinobu+Bot+🦋;©Power+By+Danonino+🧸;Bot+en+desarrollo+🌸;Deja+tu+estrellita+⭐" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/bJ9qC47R/portada.jpg" width="400px">
+  <img src="https://i.postimg.cc/bJ9qC47R/portada.jpg" width="400px" />
 </p>
 
 <div align="center">
