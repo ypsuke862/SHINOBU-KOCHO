@@ -43,7 +43,36 @@
 
 # 📦 Instalación en Termux
 
+<div style="background:#2d2d2d; color:#eee; padding:12px; border-radius:8px; font-family: monospace; margin: 10px 0; user-select: all; cursor: pointer;" onclick="navigator.clipboard.writeText('cd && termux-setup-storage').then(() => alert('Copiado: cd && termux-setup-storage'))">
+cd && termux-setup-storage
+</div>
 
+<div style="background:#2d2d2d; color:#eee; padding:12px; border-radius:8px; font-family: monospace; margin: 10px 0; user-select: all; cursor: pointer;" onclick="navigator.clipboard.writeText('apt-get update -y && apt-get upgrade -y').then(() => alert('Copiado: apt-get update -y && apt-get upgrade -y'))">
+apt-get update -y && apt-get upgrade -y
+</div>
+<div style="background:#2d2d2d; color:#eee; padding:12px; border-radius:8px; font-family: monospace; margin: 10px 0; user-select: all; cursor: pointer;" onclick="navigator.clipboard.writeText('pkg install -y git nodejs ffmpeg imagemagick').then(() => alert('Copiado: pkg install -y git nodejs ffmpeg imagemagick'))">
+pkg install -y git nodejs ffmpeg imagemagick
+</div>
+
+<div style="background:#2d2d2d; color:#eee; padding:12px; border-radius:8px; font-family: monospace; margin: 10px 0; user-select: all; cursor: pointer;" onclick="navigator.clipboard.writeText('git clone https://github.com/kobDanonino/SHINOBU-KOCHO').then(() => alert('Copiado: git clone https://github.com/kobDanonino/SHINOBU-KOCHO'))">
+git clone https://github.com/kobDanonino/SHINOBU-KOCHO
+</div>
+
+<div style="background:#2d2d2d; color:#eee; padding:12px; border-radius:8px; font-family: monospace; margin: 10px 0; user-select: all; cursor: pointer;" onclick="navigator.clipboard.writeText('yarn install').then(() => alert('Copiado: yarn install'))">
+yarn install
+</div>
+
+<div style="background:#2d2d2d; color:#eee; padding:12px; border-radius:8px; font-family: monospace; margin: 10px 0; user-select: all; cursor: pointer;" onclick="navigator.clipboard.writeText('npm install').then(() => alert('Copiado: npm install'))">
+npm install
+</div>
+
+<div style="background:#2d2d2d; color:#eee; padding:12px; border-radius:8px; font-family: monospace; margin: 10px 0; user-select: all; cursor: pointer;" onclick="navigator.clipboard.writeText('npm update').then(() => alert('Copiado: npm update'))">
+npm update
+</div>
+
+<div style="background:#2d2d2d; color:#eee; padding:12px; border-radius:8px; font-family: monospace; margin: 10px 0; user-select: all; cursor: pointer;" onclick="navigator.clipboard.writeText('npm start').then(() => alert('Copiado: npm start'))">
+npm start
+</div>
 
 
 Después de eso te aparecerá un código QR. Escanéalo con WhatsApp Web y listo 🦋.
