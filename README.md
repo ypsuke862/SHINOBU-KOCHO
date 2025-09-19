@@ -43,13 +43,59 @@
 
 # 📦 Instalación en Termux
 
-cd && termux-setup-storage
-apt-get update -y && apt-get upgrade -y
-pkg install -y git nodejs ffmpeg imagemagick
-git clone https://github.com/kobDanonino/SHINOBU-KOCHO
-cd SHINOBU-KOCHO
-npm install
-npm update
-npm start
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Instalación Termux</title>
+<style>
+  body {
+    background: #121212;
+    color: white;
+    font-family: monospace;
+    padding: 20px;
+  }
+  .code-line {
+    background: #222;
+    margin: 8px 0;
+    padding: 10px;
+    border-radius: 6px;
+    user-select: none;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  .code-line:hover {
+    background: #5a2e9a; /* morado hover */
+  }
+  .copied {
+    background: #2ecc71 !important; /* verde cuando se copia */
+  }
+</style>
+</head>
+<body>
+
+<div class="code-line" onclick="copyText(this)">cd && termux-setup-storage</div>
+<div class="code-line" onclick="copyText(this)">apt-get update -y && apt-get upgrade -y</div>
+<div class="code-line" onclick="copyText(this)">pkg install -y git nodejs ffmpeg imagemagick</div>
+<div class="code-line" onclick="copyText(this)">git clone https://github.com/tuUsuario/tuRepo</div>
+<div class="code-line" onclick="copyText(this)">npm install</div>
+<div class="code-line" onclick="copyText(this)">npm update</div>
+<div class="code-line" onclick="copyText(this)">npm start</div>
+
+<script>
+  function copyText(element) {
+    const text = element.textContent;
+    navigator.clipboard.writeText(text).then(() => {
+      element.classList.add('copied');
+      setTimeout(() => {
+        element.classList.remove('copied');
+      }, 1500);
+    }).catch(() => alert('Error al copiar'));
+  }
+</script>
+
+</body>
+</html>
 
 Después de eso te aparecerá un código QR. Escanéalo con WhatsApp Web y listo 🦋.
