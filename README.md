@@ -43,16 +43,16 @@
 
 # 📦 Instalación en Termux
 
-html
-<p>Instalación:</p>
+```html
+<p>Instalación:</p>```
 
-<div style="background:#7B2FF7; color:white; border-radius:12px; padding:10px; max-width:350px; font-family: monospace; cursor:pointer;" onclick="navigator.clipboard.writeText('apt-get update -y && apt-get upgrade -y')">
+```<div style="background:#7B2FF7; color:white; border-radius:12px; padding:10px; max-width:350px; font-family: monospace; cursor:pointer;" onclick="navigator.clipboard.writeText('apt-get update -y && apt-get upgrade -y')">
 apt-get update -y && apt-get upgrade -y
-</div>
+</div>```
 
-<div style="background:#7B2FF7; color:white; border-radius:12px; padding:10px; max-width:350px; font-family: monospace; margin-top:10px; cursor:pointer;" onclick="navigator.clipboard.writeText('pkg install -y git nodejs ffmpeg imagemagick')">
+```<div style="background:#7B2FF7; color:white; border-radius:12px; padding:10px; max-width:350px; font-family: monospace; margin-top:10px; cursor:pointer;" onclick="navigator.clipboard.writeText('pkg install -y git nodejs ffmpeg imagemagick')">
 pkg install -y git nodejs ffmpeg imagemagick
-</div>
+</div>```
 
 Después de eso te aparecerá un código QR. Escanéalo con WhatsApp Web y listo 🦋.
 
