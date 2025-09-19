@@ -1,9 +1,11 @@
-"name": "Shinobu",
+  "name": "shinobu",
   "version": "1.0.0",
-  "description": "Simple WhatsApp Bot Multi Device",
   "main": "index.js",
-  "type": "module",
-  "directories": {
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
     "lib": "lib",
     "plugins": "plugins"
   },
