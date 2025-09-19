@@ -43,6 +43,7 @@
 
 # 📦 Instalación en Termux
 
+html
 <!DOCTYPE html>
 <html lang="es">
 <head>
