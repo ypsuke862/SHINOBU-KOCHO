@@ -44,23 +44,15 @@
 # 📦 Instalación en Termux
 
 ```bash
-apt update && apt upgrade -y
+termux-setup-storage
 ```
 
 ```bash
-pkg install git -y
+pkg update -y && pkg upgrade -y
 ```
 
 ```bash
-pkg install nodejs -y
-```
-
-```bash
-pkg install ffmpeg -y
-```
-
-```bash
-pkg install imagemagick -y
+pkg install -y git nodejs ffmpeg imagemagick
 ```
 
 ```bash
@@ -73,6 +65,10 @@ cd SHINOBU-KOCHO
 
 ```bash
 npm install
+```
+
+```bash
+npm update
 ```
 
 ```bash
