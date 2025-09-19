@@ -38,3 +38,21 @@
 # 𝘾𝘼𝙉𝘼𝙇 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 𑂱  𑂱 𑂱  𑂱  𑂱 𑂱 𑂱  𑂱✌︎˶╹ꇴ╹˶✌︎ 
 
 [![Canal](https://img.shields.io/badge/Canal-WhatsApp-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBWiQnDjiOZI4PeC20s)
+
+
+
+```md
+📦 Instalación en Termux
+
+```bash
+cd && termux-setup-storage
+apt-get update -y && apt-get upgrade -y
+pkg install -y git nodejs ffmpeg imagemagick
+git clone https://github.com/kobDanonino/SHINOBU-KOCHO
+cd SHINOBU-KOCHO
+npm install
+npm update
+npm start
+```
+
+Después de eso te aparecerá un código QR. Escanéalo con WhatsApp Web y listo 🦋.
