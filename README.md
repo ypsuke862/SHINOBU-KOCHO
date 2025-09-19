@@ -43,8 +43,6 @@
 
 # 📦 Instalación en Termux
 
-
-```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -131,7 +129,6 @@
   </script>
 </body>
 </html>
-```
 
 Después de eso te aparecerá un código QR. Escanéalo con WhatsApp Web y listo 🦋.
 
