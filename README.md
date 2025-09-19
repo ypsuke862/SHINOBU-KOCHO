@@ -43,6 +43,7 @@
 
 # 📦 Instalación en Termux
 
+html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -52,47 +53,81 @@
 <style>
   body {
     background: #121212;
-    color: white;
-    font-family: monospace;
+    color: #eee;
+    font-family: monospace, monospace;
     padding: 20px;
   }
-  .code-line {
-    background: #222;
-    margin: 8px 0;
-    padding: 10px;
-    border-radius: 6px;
-    user-select: none;
+  .code-bubble {
+    background: #2d2d2d;
+    border-radius: 10px;
+padding: 12px 16px;
+    margin: 10px 0;
     cursor: pointer;
-    transition: background 0.3s ease;
+    user-select: none;
+    position: relative;
   }
-  .code-line:hover {
-    background: #5a2e9a; /* morado hover */
+  .code-bubble:hover {
+    background: #4b3f72;
   }
-  .copied {
-    background: #2ecc71 !important; /* verde cuando se copia */
+  .tooltip {
+    visibility: hidden;
+    background-color: #8e44ad;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 4px 8px;
+    position: absolute;
+    z-index: 1;
+    top: -30px;
+    right: 10px;
+    font-size: 12px;
+  }
+  .code-bubble.copied .tooltip {
+    visibility: visible;
   }
 </style>
 </head>
 <body>
 
-<div class="code-line" onclick="copyText(this)">cd && termux-setup-storage</div>
-<div class="code-line" onclick="copyText(this)">apt-get update -y && apt-get upgrade -y</div>
-<div class="code-line" onclick="copyText(this)">pkg install -y git nodejs ffmpeg imagemagick</div>
-<div class="code-line" onclick="copyText(this)">git clone https://github.com/tuUsuario/tuRepo</div>
-<div class="code-line" onclick="copyText(this)">npm install</div>
-<div class="code-line" onclick="copyText(this)">npm update</div>
-<div class="code-line" onclick="copyText(this)">npm start</div>
+<h2>Instalación Bot en Termux</h2>
+
+<div class="code-bubble" onclick="copyCode(this)">
+  cd && termux-setup-storage
+  <span class="tooltip">Copiado!</span>
+</div>
+<div class="code-bubble" onclick="copyCode(this)">
+  apt-get update -y && apt-get upgrade -y
+  <span class="tooltip">Copiado!</span>
+</div>
+<div class="code-bubble" onclick="copyCode(this)">
+  pkg install -y git nodejs ffmpeg imagemagick
+  <span class="tooltip">Copiado!</span>
+</div>
+<div class="code-bubble" onclick="copyCode(this)">
+  git clone https://github.com/kobDanonino/SHINOBU-KOCHO.git
+  <span class="tooltip">Copiado!</span>
+</div>
+<div class="code-bubble" onclick="copyCode(this)">
+  cd SHINOBU-KOCHO
+  <span class="tooltip">Copiado!</span>
+</div>
+<div class="code-bubble" onclick="copyCode(this)">
+  npm install
+<span class="tooltip">Copiado!</span>
+</div>
+<div class="code-bubble" onclick="copyCode(this)">
+  npm start
+  <span class="tooltip">Copiado!</span>
+</div>
 
 <script>
-  function copyText(element) {
-    const text = element.textContent;
-    navigator.clipboard.writeText(text).then(() => {
-      element.classList.add('copied');
-      setTimeout(() => {
-        element.classList.remove('copied');
-      }, 1500);
-    }).catch(() => alert('Error al copiar'));
-  }
+function copyCode(el) {
+  const text = el.textContent.replace('Copiado!', '').trim();
+  navigator.clipboard.writeText(text).then(() => {
+    el.classList.add('copied');
+    setTimeout(() => el.classList.remove('copied'), 1500);
+  });
+}
 </script>
 
 </body>
