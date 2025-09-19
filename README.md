@@ -43,36 +43,41 @@
 
 # 📦 Instalación en Termux
 
+```bash
+apt update && apt upgrade -y
+```
 
-<div style="display:flex; flex-direction: column; gap: 12px; max-width: 400px;">
+```bash
+pkg install git -y
+```
 
-  <div class="command" data-clipboard-text="apt update && apt upgrade -y" style="background:#333; color:#fff; padding:12px; border-radius:10px; font-family: monospace; cursor:pointer; user-select:none; display:flex; justify-content: space-between; align-items: center;">
-    apt update && apt upgrade -y
-    <button onclick="navigator.clipboard.writeText('apt update && apt upgrade -y')" style="background:#7b2ff7; border:none; color:white; padding:6px 12px; border-radius:8px; cursor:pointer;">Copiar</button>
-  </div>
+```bash
+pkg install nodejs -y
+```
 
-  <div class="command" data-clipboard-text="pkg install git nodejs ffmpeg imagemagick -y" style="background:#333; color:#fff; padding:12px; border-radius:10px; font-family: monospace; cursor:pointer; user-select:none; display:flex; justify-content: space-between; align-items: center;">
-    pkg install git nodejs ffmpeg imagemagick -y
-<button onclick="navigator.clipboard.writeText('pkg install git nodejs ffmpeg imagemagick -y')" style="background:#7b2ff7; border:none; color:white; padding:6px 12px; border-radius:8px; cursor:pointer;">Copiar</button>
-  </div>
+```bash
+pkg install ffmpeg -y
+```
 
-  <div class="command" data-clipboard-text="git clone https://github.com/kobDanonino/SHINOBU-KOCHO.git" style="background:#333; color:#fff; padding:12px; border-radius:10px; font-family: monospace; cursor:pointer; user-select:none; display:flex; justify-content: space-between; align-items: center;">
-    git clone https://github.com/kobDanonino/SHINOBU-KOCHO.git
-    <button onclick="navigator.clipboard.writeText('git clone https://github.com/kobDanonino/SHINOBU-KOCHO.git')" style="background:#7b2ff7; border:none; color:white; padding:6px 12px; border-radius:8px; cursor:pointer;">Copiar</button>
-  </div>
+```bash
+pkg install imagemagick -y
+```
 
-  <div class="command" data-clipboard-text="cd SHINOBU-KOCHO" style="background:#333; color:#fff; padding:12px; border-radius:10px; font-family: monospace; cursor:pointer; user-select:none; display:flex; justify-content: space-between; align-items: center;">
-    cd SHINOBU-KOCHO
-<button onclick="navigator.clipboard.writeText('cd SHINOBU-KOCHO')" style="background:#7b2ff7; border:none; color:white; padding:6px 12px; border-radius:8px; cursor:pointer;">Copiar</button>
-  </div>
+```bash
+git clone https://github.com/kobDanonino/SHINOBU-KOCHO
+```
 
-  <div class="command" data-clipboard-text="npm install" style="background:#333; color:#fff; padding:12px; border-radius:10px; font-family: monospace; cursor:pointer; user-select:none; display:flex; justify-content: space-between; align-items: center;">
-    npm install
-    <button onclick="navigator.clipboard.writeText('npm install')" style="background:#7b2ff7; border:none; color:white; padding:6px 12px; border-radius:8px; cursor:pointer;">Copiar</button>
-  </div>
+```bash
+cd SHINOBU-KOCHO
+```
 
-  <div class="command" data-clipboard-text="npm start" style="background:#333; color:#fff; padding:12px; border-radius:10px; font-family: monospace; cursor:pointer; user-select:none; display:flex; justify-content: space-between; align-items: center;">
-    npm start
+```bash
+npm install
+```
+
+```bash
+npm start
+```
 
 Después de eso te aparecerá un código QR. Escanéalo con WhatsApp Web y listo 🦋.
 
