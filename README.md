@@ -74,4 +74,6 @@ npm update
 npm start
 </div>
 
+Después de eso te aparecerá un código QR. Escanéalo con WhatsApp Web y listo 🦋.
+
 
