@@ -41,10 +41,9 @@
 
 
 
-```md
-📦 Instalación en Termux
+# 📦 Instalación en Termux
 
-```bash
+bash
 cd && termux-setup-storage
 apt-get update -y && apt-get upgrade -y
 pkg install -y git nodejs ffmpeg imagemagick
@@ -53,6 +52,5 @@ cd SHINOBU-KOCHO
 npm install
 npm update
 npm start
-```
 
 Después de eso te aparecerá un código QR. Escanéalo con WhatsApp Web y listo 🦋.
