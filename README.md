@@ -43,21 +43,21 @@
 
 # 📦 Instalación en Termux
 
-🟣 `cd && termux-setup-storage`
+ `cd && termux-setup-storage`
 
-🟣 `apt-get update -y && apt-get upgrade -y`
+ `apt-get update -y && apt-get upgrade -y`
 
-🟣 `pkg install -y git nodejs ffmpeg imagemagick`
+ `pkg install -y git nodejs ffmpeg imagemagick`
 
-🟣 `git clone https://github.com/kobDanonino/SHINOBU-KOCHO`
+ `git clone https://github.com/kobDanonino/SHINOBU-KOCHO`
 
-🟣 `yarn install`
+ `yarn install`
 
-🟣 `npm install`
+ `npm install`
 
-🟣 `npm update`
+ `npm update`
 
-🟣 `npm start`
+ `npm start`
 
 
 Después de eso te aparecerá un código QR. Escanéalo con WhatsApp Web y listo 🦋.
