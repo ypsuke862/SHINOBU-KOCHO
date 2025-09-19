@@ -43,7 +43,7 @@
 
 # 📦 Instalación en Termux
 
-```markdown
+``markdown
 Instalación por Termux
 
 <div style="display:flex; flex-direction: column; gap: 12px; max-width: 400px;">
@@ -75,11 +75,6 @@ Instalación por Termux
 
   <div class="command" data-clipboard-text="npm start" style="background:#333; color:#fff; padding:12px; border-radius:10px; font-family: monospace; cursor:pointer; user-select:none; display:flex; justify-content: space-between; align-items: center;">
     npm start
-    <button onclick="navigator.clipboard.writeText('npm start')" style="background:#7b2ff7; border:none; color:white; padding:6px 12px; border-radius:8px; cursor:pointer;">Copiar</button>
-  </div>
-
-</div>
-```
 
 Después de eso te aparecerá un código QR. Escanéalo con WhatsApp Web y listo 🦋.
 
