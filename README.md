@@ -43,7 +43,6 @@
 
 # 📦 Instalación en Termux
 
-bash
 cd && termux-setup-storage
 apt-get update -y && apt-get upgrade -y
 pkg install -y git nodejs ffmpeg imagemagick
