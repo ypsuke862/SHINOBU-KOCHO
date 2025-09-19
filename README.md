@@ -43,93 +43,43 @@
 
 # 📦 Instalación en Termux
 
-html
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <title>Instalación Shinobu Bot - Termux</title>
-  <style>
-    body {
-      font-family: monospace, monospace;
-      background-color: #121212;
-      color: white;
-      padding: 20px;
-    }
-    .command {
-      background: #7B2FF7;
-      border-radius: 12px;
-      padding: 12px 16px;
-      margin: 12px 0;
-      cursor: pointer;
-      user-select: none;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      max-width: 600px;
-      transition: background-color 0.3s ease;
-    }
-    .command:hover {
-      background-color: #5a20b8;
-    }
-    .cmd-text {
-      flex-grow: 1;
-      white-space: nowrap;
-      overflow-x: auto;
-    }
-    .copy-btn {
-      background: transparent;
-      border: none;
-      color: white;
-      font-weight: bold;
-      margin-left: 10px;
-      cursor: pointer;
-      font-size: 14px;
-    }
-  </style>
-</head>
-<body>
-  <h1>Instalación Shinobu Bot en Termux</h1>
-  <p>Haz clic en un comando para copiarlo:</p>
-<div class="command" onclick="copyCommand('apt update && apt upgrade -y')">
-    <div class="cmd-text">apt update && apt upgrade -y</div>
-    <button class="copy-btn">Copiar</button>
+```markdown
+Instalación por Termux
+
+<div style="display:flex; flex-direction: column; gap: 12px; max-width: 400px;">
+
+  <div class="command" data-clipboard-text="apt update && apt upgrade -y" style="background:#333; color:#fff; padding:12px; border-radius:10px; font-family: monospace; cursor:pointer; user-select:none; display:flex; justify-content: space-between; align-items: center;">
+    apt update && apt upgrade -y
+    <button onclick="navigator.clipboard.writeText('apt update && apt upgrade -y')" style="background:#7b2ff7; border:none; color:white; padding:6px 12px; border-radius:8px; cursor:pointer;">Copiar</button>
   </div>
 
-  <div class="command" onclick="copyCommand('pkg install git nodejs ffmpeg imagemagick -y')">
-    <div class="cmd-text">pkg install git nodejs ffmpeg imagemagick -y</div>
-    <button class="copy-btn">Copiar</button>
+  <div class="command" data-clipboard-text="pkg install git nodejs ffmpeg imagemagick -y" style="background:#333; color:#fff; padding:12px; border-radius:10px; font-family: monospace; cursor:pointer; user-select:none; display:flex; justify-content: space-between; align-items: center;">
+    pkg install git nodejs ffmpeg imagemagick -y
+<button onclick="navigator.clipboard.writeText('pkg install git nodejs ffmpeg imagemagick -y')" style="background:#7b2ff7; border:none; color:white; padding:6px 12px; border-radius:8px; cursor:pointer;">Copiar</button>
   </div>
 
-  <div class="command" onclick="copyCommand('git clone https://github.com/kobDanonino/SHINOBU-KOCHO.git')">
-    <div class="cmd-text">git clone https://github.com/kobDanonino/SHINOBU-KOCHO.git</div>
-    <button class="copy-btn">Copiar</button>
+  <div class="command" data-clipboard-text="git clone https://github.com/kobDanonino/SHINOBU-KOCHO.git" style="background:#333; color:#fff; padding:12px; border-radius:10px; font-family: monospace; cursor:pointer; user-select:none; display:flex; justify-content: space-between; align-items: center;">
+    git clone https://github.com/kobDanonino/SHINOBU-KOCHO.git
+    <button onclick="navigator.clipboard.writeText('git clone https://github.com/kobDanonino/SHINOBU-KOCHO.git')" style="background:#7b2ff7; border:none; color:white; padding:6px 12px; border-radius:8px; cursor:pointer;">Copiar</button>
   </div>
 
-  <div class="command" onclick="copyCommand('cd SHINOBU-KOCHO')">
-    <div class="cmd-text">cd SHINOBU-KOCHO</div>
-    <button class="copy-btn">Copiar</button>
+  <div class="command" data-clipboard-text="cd SHINOBU-KOCHO" style="background:#333; color:#fff; padding:12px; border-radius:10px; font-family: monospace; cursor:pointer; user-select:none; display:flex; justify-content: space-between; align-items: center;">
+    cd SHINOBU-KOCHO
+<button onclick="navigator.clipboard.writeText('cd SHINOBU-KOCHO')" style="background:#7b2ff7; border:none; color:white; padding:6px 12px; border-radius:8px; cursor:pointer;">Copiar</button>
   </div>
 
-  <div class="command" onclick="copyCommand('npm install')">
-    <div class="cmd-text">npm install</div>
-    <button class="copy-btn">Copiar</button>
+  <div class="command" data-clipboard-text="npm install" style="background:#333; color:#fff; padding:12px; border-radius:10px; font-family: monospace; cursor:pointer; user-select:none; display:flex; justify-content: space-between; align-items: center;">
+    npm install
+    <button onclick="navigator.clipboard.writeText('npm install')" style="background:#7b2ff7; border:none; color:white; padding:6px 12px; border-radius:8px; cursor:pointer;">Copiar</button>
   </div>
 
-  <div class="command" onclick="copyCommand('npm start')">
-    <div class="cmd-text">npm start</div>
-    <button class="copy-btn">Copiar</button>
+  <div class="command" data-clipboard-text="npm start" style="background:#333; color:#fff; padding:12px; border-radius:10px; font-family: monospace; cursor:pointer; user-select:none; display:flex; justify-content: space-between; align-items: center;">
+    npm start
+    <button onclick="navigator.clipboard.writeText('npm start')" style="background:#7b2ff7; border:none; color:white; padding:6px 12px; border-radius:8px; cursor:pointer;">Copiar</button>
   </div>
 
-  <script>
-    function copyCommand(text) {
-      navigator.clipboard.writeText(text)
-.then(() => alert('Comando copiado:\n' + text))
-        .catch(() => alert('Error al copiar'));
-    }
-  </script>
-</body>
-</html>
+</div>
+```
 
 Después de eso te aparecerá un código QR. Escanéalo con WhatsApp Web y listo 🦋.
 
