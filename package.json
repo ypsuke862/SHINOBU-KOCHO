@@ -7,7 +7,7 @@
   "dependencies": {}
 }
     "lib": "lib",
-    "plugins": "commands"
+    "plugins": "Commands"
   },
   "scripts": {
     "start": "node index.js"
