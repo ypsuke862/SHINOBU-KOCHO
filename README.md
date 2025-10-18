@@ -1,4 +1,4 @@
-# 𝙎𝙃𝙄𝙉𝙊𝘽𝙐-𝙆𝙊𝘾𝙃𝙊
+# Bot sin actualización y con errores 
 © 𝘿𝙖𝙣𝙤𝙣𝙞𝙣𝙤 & 𝙭𝙊𝙣𝙚
 
 <p align="center">
